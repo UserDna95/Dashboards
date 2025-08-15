@@ -5,7 +5,8 @@ Compilation of various dashboards on Power BI and Tableau
 
 ## Problem Statement
 How did service levels affect contract renewal for customers?
-This project analyzes key supply chain metrics to understand their impact on customer retention and contract renewals. Built using Excel for data cleaning and Power BI for visualization.
+
+# This project analyzes key supply chain metrics to understand their impact on customer retention and contract renewals. Built using Excel for data cleaning and Power BI for visualization.
 
 ## Key Metrics
 
